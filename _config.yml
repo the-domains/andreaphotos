@@ -1,6 +1,6 @@
 name: Andreaphotos
 favicon: null
-layout_spectrum: 0.5197442760691047
+layout_spectrum: 0.40626
 typography_spectrum: 0.8640878600999713
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.40995486406609416
+  brandStrength: 0.75
   lightness: 0.5032893104944378
   saturation: 0.2627133394125849
   rhythmicContrast: 0.8100728041026741
